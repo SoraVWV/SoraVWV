@@ -1,4 +1,4 @@
-# Hello! I'm Sora.
+# Hello!
 
 I’m a backend (web) and fullstack developer (compiler dev), specializing in compilers and developing the **Axolotl** programming language and language prototyping tools.
 
